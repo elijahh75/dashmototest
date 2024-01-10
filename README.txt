@@ -1,2 +1,2 @@
 #Dashmototest
-this is a test project, for me to practice pushing a local repo into a GitHub repo
+this is a test project from **Codecademy**, for me to practice pushing a local repo into a GitHub repo
